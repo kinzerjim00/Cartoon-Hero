@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+font-family: 'Alegreya', serif;
+}
+header{
+	background-color: #d14635;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+h1, h2{font-family: 'Cormorant Garamond', serif;
+}
+header h1{
+	color: white;
+	font-size: 50px;
+}
+header img{
+	border-radius: 100px;
+	width: 600px;
+	border: 5px solid gold;
+}
